@@ -1,13 +1,5 @@
-# Template: Basic Python only robot
+# Basic Robot: Robocorp Beginner's Course I
 
-Get started with just Python
+This robot follows the guidelines: https://robocorp.com/docs/courses/beginners-course
 
-This template robot:
-
-- Uses only Python 
-- Provides a simple template to start from (`tasks.py`).
-
-## Learning materials
-
-- [Python basics](https://robocorp.com/docs/languages-and-frameworks/python)
-- [Best practices in creating Python robots](https://robocorp.com/docs/development-guide/qa-and-best-practices/python-robots)
+The robot is writen using Python's syntax, rather than the robot-framework syntax.
